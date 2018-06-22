@@ -14,6 +14,7 @@
 		576AF7B020ABEA7900F2C9BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 576AF7AE20ABEA7900F2C9BA /* LaunchScreen.storyboard */; };
 		576AF7BB20ABEA7900F2C9BA /* tipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576AF7BA20ABEA7900F2C9BA /* tipTests.swift */; };
 		576AF7C620ABEA7900F2C9BA /* tipUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576AF7C520ABEA7900F2C9BA /* tipUITests.swift */; };
+		576AF7D420ABEB9800F2C9BA /* TipController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576AF7D320ABEB9800F2C9BA /* TipController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		576AF7C120ABEA7900F2C9BA /* tipUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		576AF7C520ABEA7900F2C9BA /* tipUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipUITests.swift; sourceTree = "<group>"; };
 		576AF7C720ABEA7900F2C9BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		576AF7D320ABEB9800F2C9BA /* TipController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				576AF7A520ABEA7700F2C9BA /* AppDelegate.swift */,
 				576AF7A720ABEA7700F2C9BA /* ViewController.swift */,
 				576AF7A920ABEA7700F2C9BA /* Main.storyboard */,
+				576AF7D320ABEB9800F2C9BA /* TipController.swift */,
 				576AF7AC20ABEA7900F2C9BA /* Assets.xcassets */,
 				576AF7AE20ABEA7900F2C9BA /* LaunchScreen.storyboard */,
 				576AF7B120ABEA7900F2C9BA /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				576AF7A820ABEA7700F2C9BA /* ViewController.swift in Sources */,
 				576AF7A620ABEA7700F2C9BA /* AppDelegate.swift in Sources */,
+				576AF7D420ABEB9800F2C9BA /* TipController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
